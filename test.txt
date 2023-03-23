@@ -1,0 +1,1 @@
+This is a bandwith test file for prtg
